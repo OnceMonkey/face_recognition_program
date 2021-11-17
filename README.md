@@ -20,6 +20,8 @@ add some persons's face into it, like:
 
 `python face_recognition.py`
 
+The result looks similar to the following：
+<img src="https://cloud.githubusercontent.com/assets/896692/24430398/36f0e3f0-13cb-11e7-8258-4d0c9ce1e419.gif" alt="show" />
 
 # reference
 - https://github.com/ageitgey/face_recognition
