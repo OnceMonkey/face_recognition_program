@@ -1,4 +1,4 @@
 .idea
-!/face_db/obama/
-!/face_db/biden/
 face_db/*/
+!face_db/obama/
+!face_db/biden/
