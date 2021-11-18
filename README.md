@@ -1,5 +1,5 @@
 # face_recognition_program
- This is a simple face recognition program based on "ageitgey/face_recognition", thanks for their great work. Most of codes are heavily same,  this repository just for run right out of the box.
+ This is a simple face recognition program based on "ageitgey/face_recognition", thanks for their great work. Most of codes are heavily same, this repository just for run right out of the box.
 
 
 # usage
