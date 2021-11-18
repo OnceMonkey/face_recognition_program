@@ -1,11 +1,11 @@
 # face_recognition_program
- This is a simple face recognition program based on "ageitgey/face_recognition", Most of codes are heavily same,  This repository just for run right out of the box.
+ This is a simple face recognition program based on "ageitgey/face_recognition", thanks for their great work. Most of codes are heavily same,  this repository just for run right out of the box.
 
 
 # usage
-## 1. add known faces
-all known face images have been placed at dir "face_db".
-add some persons's face into it, like:
+## 1. Add known faces
+All known face images have been placed at dir "face_db".
+Add some persons's face into it, like:
 
 ```
 --face_db
